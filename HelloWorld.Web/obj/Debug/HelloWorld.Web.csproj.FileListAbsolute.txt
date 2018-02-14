@@ -67,3 +67,4 @@ C:\Users\rouzbeh.majlessi\Source\Repos\HelloWorld\HelloWorld.Web\bin\System.Web.
 C:\Users\rouzbeh.majlessi\Source\Repos\HelloWorld\HelloWorld.Web\obj\Debug\HelloWorld.Web.csproj.CoreCompileInputs.cache
 C:\Users\rouzbeh.majlessi\Source\Repos\HelloWorld\HelloWorld.Web\obj\Debug\HelloWorld.Web.dll
 C:\Users\rouzbeh.majlessi\Source\Repos\HelloWorld\HelloWorld.Web\obj\Debug\HelloWorld.Web.pdb
+C:\Users\rouzbeh.majlessi\Source\Repos\HelloWorld\HelloWorld.Web\obj\Debug\HelloWorld.Web.csprojResolveAssemblyReference.cache

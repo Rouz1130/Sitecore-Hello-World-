@@ -187,7 +187,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/14/2018 12:17:44</publishTime>
     </File>
     <File Include="Views/Components/AdditionalTextView.cshtml">
-      <publishTime>02/14/2018 13:42:17</publishTime>
+      <publishTime>02/14/2018 14:41:44</publishTime>
     </File>
     <File Include="Views/Shared/DefaultMVCLayout.cshtml">
       <publishTime>02/14/2018 12:59:24</publishTime>
