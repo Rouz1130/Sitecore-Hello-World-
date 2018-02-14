@@ -118,6 +118,8 @@
     <None Include="packages.config" />
     <Content Include="Views\Shared\DefaultMVCLayout.cshtml" />
     <Content Include="Views\Components\AdditionalTextView.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
